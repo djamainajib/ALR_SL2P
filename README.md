@@ -20,6 +20,9 @@ Inputs:
 - S2L2A product in .SAFE format.
 - S2L2B product obtained using SL2P and the corresponding flags map (.tif format).
 
+Samples of inputs (Samples_input_data.7z) are provided in: https://drive.google.com/file/d/14XjtlQ9OCn4kDqY181gKNBrb2FuvOrNP/view?ts=5e276ce2
+You should unzip the provided folder
+
 Outputs:
 -	Regularized product
 -	QAI (flag maps)
